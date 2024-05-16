@@ -1,6 +1,3 @@
-# Pairings Explained
-Tutorial for understanding Elliptic Curve Pairings using Sagemath
-
 <p align="center">
  <img src="https://i.imgur.com/rSyq3MW.png" alt="The Documentation Compendium"></a>
 </p>
