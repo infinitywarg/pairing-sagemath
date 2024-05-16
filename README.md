@@ -26,6 +26,19 @@
 
 
 ## Groups, Rings and Fields <a name = "groups_rings_and_fields"></a>
+**Groups**
+Let G be a set together with a binary operation * that assigns each ordered pair (a,b) of elements of G another element in G denoted by a*b.
+G is a group if it satisfies below three conditions:
+1. Associativity: (a*b)*c = a*(b*c)
+2. Identity: A special element e such that a*e = e*a = a
+3. Inverses: Each element a has a unique inverse b such that a*b=e
+
+If the set satisfies a fourth property of Commutativity, it's called a Commutative Group or an Abeian Group.
+4. Commutativity: a*b = b*a
+
+**Examples**
+- Set of integers Z, set of rationals Q and set of real numbers R are all Abelian Groups under ordinary (arithmetic taught in schools) addition. In each case, identity is 0 and inverse of a is -a.
+- Set of integers Z under ordinary multiplication is not a group, because each element does not have an inverse in the same set
 
 ## Finite Fields <a name = "finite_fields"></a>
 **Example**
